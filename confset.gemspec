@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "simplecov", "~> 0.22.0"
   s.add_development_dependency "mdl", "~> 0.13.0"
   s.add_development_dependency "pry", "~> 0.14.2"
-  s.add_development_dependency "rubocop", "~> 1.60.1"
+  s.add_development_dependency "rubocop", "~> 1.72.0"
   s.add_development_dependency "rubocop-packaging"
   s.add_development_dependency "rubocop-performance"
 end
